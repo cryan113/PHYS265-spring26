@@ -77,7 +77,7 @@ for power users with fast fingers.
    to push to github.
 
 7. You now will see an option to push this change via a blue button in the right pane. **Push origin** it
-   will say. Go ahead and push this to github now.
+   will say. Go ahead and push this to github.
 
 8. For new files, for example in your Lab1 folder, the same story, except new files will have a green square with
    a green + symbol inside.   Only add the files that your grader needs to see. All other files will stay private on
@@ -86,8 +86,6 @@ for power users with fast fingers.
 9. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
    better examples online.
-
-
 
 ## Authentication (advanced)
 
